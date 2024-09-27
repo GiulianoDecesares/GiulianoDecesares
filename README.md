@@ -1,7 +1,7 @@
 # 🐙 About Me:
 🔭 I’m currently working on Management Systems
 <br>
-🌱 I’m currently learning Go
+🌱 I’m currently learning Flutter
 <br>
 
 ## 🌐 Socials:
