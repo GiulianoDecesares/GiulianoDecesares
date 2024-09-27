@@ -1,6 +1,12 @@
 # 🐙 About Me:
-🔭 I’m currently working on a Tennis Club Management Systems<br>🌱 I’m learning Go & a little bit of Flutter
+🔭 I’m currently working on Management Systems
+<br>
+🌱 I’m currently learning Go
+<br>
 
+<img src="https://raw.githubusercontent.com/GiulianoDecesares/GiulianoDecesares/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giuliano.decesares) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/giuliano_exe) 
