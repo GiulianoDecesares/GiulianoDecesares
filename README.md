@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on a Tennis Club Management Systems<br>🌱 I’m currently learning Go & Flutter
+# 🐙 About Me:
+🔭 I’m currently working on a Tennis Club Management Systems<br>🌱 I’m learning Go & a little bit of Flutter
 
 
 ## 🌐 Socials:
