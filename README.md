@@ -1,5 +1,7 @@
 # 🐙 About Me:
-🔭 I’m currently working on Management Systems
+💼🧑‍💼 Tech Leader at META
+<br>
+🔭 I’m currently working on a Tennis Club Management System
 <br>
 🌱 I’m currently learning Flutter
 <br>
